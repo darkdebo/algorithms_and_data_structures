@@ -4,7 +4,7 @@ project (anAlgoProbAday)
 #dirctory headers
 include_directories("include")
 include_directories(".")
-
+#do it
 #Files
 file(GLOB SOURCES "./*/*.cpp")
 
